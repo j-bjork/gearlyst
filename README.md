@@ -1,4 +1,4 @@
 gearlyst
 ========
 
-camera gear organization
+camera gear and photo organization app
