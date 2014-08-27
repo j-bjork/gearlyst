@@ -1,4 +1,4 @@
 gearlyst
 ========
 
-camera gear and photo organization app
+camera gear and photo organization app that is way frickin cool
